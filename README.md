@@ -118,7 +118,7 @@
 
 **Tech Stack:** `React Native` `Expo` `Firebase` `TypeScript`
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.swipeflix)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://shevdev.netlify.app/#apps)
 
 </td>
 <td width="50%">
@@ -137,7 +137,7 @@
 
 **Tech Stack:** `Kotlin` `Firebase`
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.screenly)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://shevdev.netlify.app/#apps)
 
 </td>
 </tr>
