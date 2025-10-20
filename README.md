@@ -92,7 +92,7 @@
 
 **Tech Stack:** `JavaScript` `WebRTC` `PeerJS` `Webpack`
 
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevketcklft/p2pshare)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevketcklft/p2pshare-file-share.git)
 
 </td>
 </tr>
